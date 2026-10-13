@@ -1,0 +1,6 @@
+data/
+stream_data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.venv/
